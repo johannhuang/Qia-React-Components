@@ -1,0 +1,1 @@
+const QiaSkeleton=require("./qia-skeleton"),QiaPaginator=require("./qia-paginator"),QiaDataTable=require("./qia-data-table");module.exports={QiaDataTable,QiaPaginator,QiaSkeleton};
