@@ -1,7 +1,7 @@
 {
-	"name": "qia-react-widgets",
+	"name": "qia-react-components",
 	"version": "0.0.0",
-	"description": "Web widgets (React components) for better DX",
+	"description": "React components for better DX",
 	"keywords": [
 		"react-components",
 		"reactcomponents",
@@ -11,14 +11,13 @@
 	"main": "main.js",
 	"license": "UNLICENSED",
 	"author": "Johann Huang",
-	"homepage": "https://github.johannhuang.com/Qia-Web-React-Widgets/",
+	"homepage": "https://github.johannhuang.com/Qia-React-Components/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/johannhuang/Qia-Web-React-Widgets.git"
+		"url": "https://github.com/johannhuang/Qia-React-Components.git"
 	},
 	"dependencies": {
-		"react": "^17.0.2",
-		"react-dom": "^17.0.2"
+		"react": "^17.0.2"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
